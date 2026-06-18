@@ -47,7 +47,7 @@ A telecom company is losing 26.6% of its customers annually — $2.86M in revenu
 |--------|-------|
 | Overall churn rate | 26.6% |
 | Model accuracy | 78% |
-| ROC-AUC score | 0.811 |
+| ROC-AUC score | 0.809 |
 | Churn recall (tuned) | 66.3% |
 | Revenue at risk | $2,862,927 |
 | Revenue model saves | $1,800,872 |
